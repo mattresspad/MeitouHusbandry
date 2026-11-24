@@ -1,3 +1,5 @@
+> **Archived: future development is moving to [AnimalBehaviors](https://github.com/Meitou-Modding-Ecosystem/AnimalBehaviors).** This repository preserves the Meitou v0.22.1 hitching-post playtest. Existing MeitouHusbandry packs and saves are not automatically compatible with AnimalBehaviors; migration remains pending.
+
 # Meitou Husbandry
 
 [Download the playtest](https://github.com/Meitou-Modding-Ecosystem/MeitouHusbandry/releases/tag/v0.1.0-playtest.2) · [Make a hitching post for my town](AUTHORING.md) · [Results](RESULTS.md) · [Feedback](https://github.com/Meitou-Modding-Ecosystem/MeitouHusbandry/issues)
